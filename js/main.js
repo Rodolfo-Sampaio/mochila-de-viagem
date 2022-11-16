@@ -34,8 +34,6 @@ form.addEventListener("submit", (evento) => {
         itens.push(itemAtual)
     }
 
- 
-
     localStorage.setItem("itens", JSON.stringify(itens))
     
     nome.value = ""
@@ -68,7 +66,6 @@ function botaoDeleta(id) {
 
     elementoBotao.addEventListener("click", function() {
         deletaElemento(this.parentNode, id)
-
     })
 
     return elementoBotao
@@ -76,7 +73,6 @@ function botaoDeleta(id) {
 
 function deletaElemento(tag, id) {
     tag.remove()
-
 
     itens.splice(itens.findIndex(elemento => elemento.id === id), 1)
 
