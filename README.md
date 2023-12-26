@@ -46,4 +46,4 @@ sobre como salvar dados no navegador,  o curso explora a criação de um site pa
 <br>
 ### 🚀 Valeu pela passada no meu Git. Se curtiu, bora trocar ideias! Dá um [`Follow`](https://github.com/Rodolfo-Sampaio) que tô sempre por aqui.  😎👩‍💻
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
